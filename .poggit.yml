@@ -1,6 +1,6 @@
 --- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/AlexBGames/3.0.0Alpha9-PocketMine-Plugins
 branches:
-- master
+- patch-1
 projects:
   2vs2:
     path: 2vs2/
